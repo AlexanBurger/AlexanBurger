@@ -1,4 +1,11 @@
 <DOCTYPE html!>
-<head>
-<title> WeeWoo </title>
-</head>
+<html>
+  <head>
+    <title> WeeWoo </title>
+  </head>
+  
+ <body>
+  <h1>Welcome</h1>
+  <p> This is supposed to be something that i made in my underwear</p>
+</body>
+</html>
